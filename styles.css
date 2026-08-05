@@ -4,3 +4,15 @@
   text-align: center;
   padding: 20px;
 }
+.latest-news-section{
+	color:grey;
+	width:100px;
+	height:100px;
+	padding:20;
+}
+.pictorial-news-section{
+	color:black;
+	width:100px;
+	height:100px;
+	padding:20;
+}
