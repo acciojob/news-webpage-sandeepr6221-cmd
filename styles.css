@@ -1,1 +1,21 @@
-/*  your css code here. If applicable */
+.header{
+	diplay:flex;
+	flex-direction:row;
+    background-color: #011e29;
+	height:50px;
+	weight:50px;
+	text-align:center;
+	margon:40px;
+	color:white;
+	}
+.rg {
+	border:1px solid black;
+}
+img{
+	display:flex;
+	width:100px;
+	height:100px;
+	flex-direction:row;
+	padding:6px
+}
+
