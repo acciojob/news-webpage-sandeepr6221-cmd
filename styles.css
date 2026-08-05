@@ -1,16 +1,10 @@
 .header{
-	diplay:flex;
-	flex-direction:row;
     background-color: #011e29;
-	height:50px;
-	weight:50px;
-	text-align:center;
-	margon:40px;
+	height:500px;
+	weight:800px;
 	color:white;
 	}
-.rg {
-	border:1px solid black;
-}
+
 img{
 	display:flex;
 	width:100px;
@@ -18,4 +12,17 @@ img{
 	flex-direction:row;
 	padding:6px
 }
-
+.eg{
+	
+}
+body{
+	display:flex;
+	text-align:space-between;
+	width:100px;
+	height:100px;
+	flex-direction:row;
+}
+.latest-news-section{
+	width:50px;
+	height:100
+}
