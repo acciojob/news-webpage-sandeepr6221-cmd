@@ -1,28 +1,6 @@
-.header{
-    background-color: #011e29;
-	height:500px;
-	weight:800px;
-	color:white;
-	}
-
-img{
-	display:flex;
-	width:100px;
-	height:100px;
-	flex-direction:row;
-	padding:6px
-}
-.eg{
-	
-}
-body{
-	display:flex;
-	text-align:space-between;
-	width:100px;
-	height:100px;
-	flex-direction:row;
-}
-.latest-news-section{
-	width:50px;
-	height:100
+.header {
+  background-color: #011e29;
+  color: white;
+  text-align: center;
+  padding: 20px;
 }
