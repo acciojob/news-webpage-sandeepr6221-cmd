@@ -1,18 +1,19 @@
 .header {
+  display:flex;
+  flex-direction:column;
   background-color: #011e29;
   color: white;
-  text-align: center;
+  text-align:center;
+	
   padding: 20px;
 }
-.latest-news-section{
-	color:grey;
-	width:100px;
-	height:100px;
-	padding:20px;
-}
-.pictorial-news-section{
-	color:black;
-	width:100px;
-	height:100px;
-	padding:20px;
+
+
+
+
+
+
+
+
+		
 }
