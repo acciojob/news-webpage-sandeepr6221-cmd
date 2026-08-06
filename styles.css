@@ -21,7 +21,7 @@ body{
 	width:400px;
 	height:400px;
 	padding:20px;
-	text-align:space-between;
+	text-align:center;
 	border-radius:20px;
 	}
 img{
@@ -30,6 +30,7 @@ img{
 	height:100px;
 	padding:5px;
 	flex-direction:column;
+
 }
 
 
