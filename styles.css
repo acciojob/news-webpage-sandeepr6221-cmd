@@ -11,21 +11,25 @@ body{
 	background-color:#f5f5f5;
 }
 .latest-news-section{
-	background-color:green;
+	background-color:white;
 	width:200px;
 	padding:20px;
+	color:black;
 }
 .pictorial-news-section{
 	background-color:white;
 	width:400px;
-	height:200px;
+	height:400px;
 	padding:20px;
-	text-align:center;
+	text-align:space-between;
 	border-radius:20px;
 	}
 img{
+	display:flex;
 	width:100px;
 	height:100px;
+	padding:5px;
+	flex-direction:column;
 }
 
 
